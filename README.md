@@ -9,7 +9,7 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Umar-Khan-Yousafzai&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
-
+<a href="https://app.daily.dev/UmarFarooqKhan"><img src="https://api.daily.dev/devcards/0975cde10c344fb89060f218e9869896.png?r=vay" width="400" alt="Umer Farooq Khan's Dev Card"/></a>
 <!--
 
 <details>
