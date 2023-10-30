@@ -1,3 +1,4 @@
+<h2>Pray for the innocent lives Lost in Palestine 🇵🇸. Say No To Oppression, Say No to illegal Occupation of Palestininan Lands 🇵🇸</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Umar-Khan-Yousafzai&column=8&theme=gruvbox&no-frame=true"/>
