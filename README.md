@@ -1,57 +1,43 @@
-<h2>Pray for the innocent lives Lost in Palestine 🇵🇸. Say No To Oppression, Say No to illegal Occupation of Palestinian Lands 🇵🇸</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Umar-Khan-Yousafzai&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+### 👋 Hi there, I'm Umer Farooq Khan!
 
 ---
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Umar-Khan-Yousafzai&theme=monokai&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
-</div>
-<a href="https://app.daily.dev/UmarFarooqKhan"><img src="https://api.daily.dev/devcards/0975cde10c344fb89060f218e9869896.png?r=vay" width="400" alt="Umer Farooq Khan's Dev Card"/></a>
-<!--
+![](https://komarev.com/ghpvc/?username=Umar-Khan-Yousafzai&color=fb4362)
 
-<details>
-<summary><b>more detail</b></summary>
-  
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-<h1>Presentation</h1>
 
-<h2>【Unite 2017 Tokyo】バグを殲滅！Unityにおける実践テスト手法</h2>
-<a href="https://www.slideshare.net/UnityTechnologiesJapan/unite-2017-tokyounity">
-  <img width="450" src="https://user-images.githubusercontent.com/6661165/88907506-ac3e2200-d293-11ea-92f5-31cf2647fbb1.png">
-</a>
 
-<h2>FIWARE Global Summit - Integrating Function as a Service (FaaS) Capabilities in FIWARE</h2>
-<a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-integrating-function-as-a-service-faas-capabilities-in-fiware">
-  <img width="450" src="https://user-images.githubusercontent.com/6661165/88908054-5fa71680-d294-11ea-9e50-0dd57019a7a6.png">
-</a>
+<h3>My GitHub contributions summary</h3>
 
-<h1>Patent</h1>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar-Khan-Yousafzai&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-## 発行国/特許番号  jp/特許第6533963
-* ユーザ端末、認証端末、認証方法及び決済プログラム  
-(User terminals, authentication terminals, authentication methods and payment programs)
-
-## 発行国/特許番号  jp/特許第6447949  
-* 決済システム、決済サーバ、決済方法及び決済プログラム  
-(Payment systems, payment servers, payment methods and payment programs)
-
-<h1>Books</h1>
-
-* [Ansible徹底活用ガイド ThinkIT 2016_10/6 (The Complete Guide to Ansible ThinkIT)](https://www.amazon.co.jp/Ansible-%E5%BE%B9%E5%BA%95%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-Think-Books-%E5%B9%B3/dp/4844381660/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-
-<h1>Popular Repository</h1>
-                 
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=covid19-japan-web-api&theme=monokai)](https://github.com/ryo-ma/covid19-japan-web-api)
-
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=lazyhub&theme=monokai)](https://github.com/ryo-ma/lazyhub)
-
-[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=deno-websocket&theme=monokai)](https://github.com/ryo-ma/deno-websokcet)
-
-</details>
-
--->
-
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umar-Khan-Yousafzai&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
